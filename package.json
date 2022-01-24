@@ -1,6 +1,7 @@
 {
 	"version": "1.0.0",
 	"id": "tob-use-wrap",
+	"name": "tob-use-wrap",
 	"main": "index.js",
 	"type": "module",
 	"displayName": "tob-use-wrap",
