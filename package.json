@@ -7,20 +7,16 @@
 	"displayName": "tob-use-wrap",
 	"description": "可以将通用的 uniapp-api 转换为 composition-api 的工具",
 	"keywords": [
-		"tob",
-		"use",
-		"hook",
-		"tool",
-		"hooks",
-		"use-wrap"
-	],
+        "tob",
+        "use",
+        "hook",
+        "tool",
+        "hooks"
+    ],
 	"peerDependencies": {
 		"vue": "^3.0.0"
 	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/markthree/tob-use-wrap"
-	},
+	"repository": "https://github.com/markthree/tob-hook-wrap",
 	"engines": {
 		"HBuilderX": "^3.1.0"
 	},
@@ -32,7 +28,7 @@
 	"dcloudext": {
 		"category": [
 			"JS SDK",
-			"JS SDK"
+			"通用 SDK"
 		],
 		"sale": {
 			"regular": {
@@ -46,9 +42,9 @@
 			"qq": ""
 		},
 		"declaration": {
-			"ads": "",
-			"data": "",
-			"permissions": ""
+			"ads": "无",
+			"data": "无",
+			"permissions": "无"
 		},
 		"npmurl": "https://www.npmjs.com/package/tob-use-wrap"
 	},
@@ -57,41 +53,41 @@
 		"encrypt": [],
 		"platforms": {
 			"cloud": {
-				"tcb": "u",
-				"aliyun": "u"
+				"tcb": "y",
+				"aliyun": "y"
 			},
 			"client": {
 				"Vue": {
-					"vue2": "u",
-					"vue3": "u"
+					"vue2": "n",
+					"vue3": "y"
 				},
 				"App": {
-					"app-vue": "u",
-					"app-nvue": "u"
+					"app-vue": "y",
+					"app-nvue": "y"
 				},
 				"H5-mobile": {
-					"Safari": "u",
-					"Android Browser": "u",
-					"微信浏览器(Android)": "u",
-					"QQ浏览器(Android)": "u"
+					"Safari": "y",
+					"Android Browser": "y",
+					"微信浏览器(Android)": "y",
+					"QQ浏览器(Android)": "y"
 				},
 				"H5-pc": {
-					"Chrome": "u",
-					"IE": "u",
-					"Edge": "u",
-					"Firefox": "u",
-					"Safari": "u"
+					"Chrome": "y",
+					"IE": "y",
+					"Edge": "y",
+					"Firefox": "y",
+					"Safari": "y"
 				},
 				"小程序": {
-					"微信": "u",
-					"阿里": "u",
-					"百度": "u",
-					"字节跳动": "u",
-					"QQ": "u"
+					"微信": "y",
+					"阿里": "y",
+					"百度": "y",
+					"字节跳动": "y",
+					"QQ": "y"
 				},
 				"快应用": {
-					"华为": "u",
-					"联盟": "u"
+					"华为": "y",
+					"联盟": "y"
 				}
 			}
 		}
