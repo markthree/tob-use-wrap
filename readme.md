@@ -60,7 +60,6 @@ const { result, error, loading } = useRequest({
 
 ```js
 // composables/request.js
-import { watch } from "vue"
 import { $U } from "@/uni_modules/tob-use-wrap/index.js"
 
 export const useRequest = $U(uni.request)
