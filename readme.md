@@ -155,6 +155,13 @@ export default {
 <br />
 
 
+## 插件市场
+
+👉 [传送门](https://ext.dcloud.net.cn/plugin?id=7318)
+
+<br />
+<br />
+
 ## License
 
 Made with markthree
