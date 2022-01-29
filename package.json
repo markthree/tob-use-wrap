@@ -7,16 +7,16 @@
 	"displayName": "tob-use-wrap",
 	"description": "可以将通用的 uniapp-api 转换为 composition-api 的工具",
 	"keywords": [
-        "tob",
-        "use",
-        "hook",
-        "tool",
-        "hooks"
-    ],
+		"tob",
+		"use",
+		"hook",
+		"tool",
+		"hooks"
+	],
 	"peerDependencies": {
 		"vue": "^3.0.0"
 	},
-	"repository": "https://github.com/markthree/tob-hook-wrap",
+	"repository": "https://github.com/markthree/tob-use-wrap",
 	"engines": {
 		"HBuilderX": "^3.1.0"
 	},
